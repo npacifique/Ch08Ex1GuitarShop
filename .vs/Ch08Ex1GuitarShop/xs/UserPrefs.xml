@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{8A597B72-245F-48D7-9E4D-437F6F9FA699}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuitarShop/Areas/Admin/Views/Product/List.cshtml">
+    <Files>
+      <File FileName="GuitarShop/Models/ProductListViewModel.cs" Line="16" Column="13" />
+      <File FileName="GuitarShop/Controllers/ProductController.cs" Line="47" Column="13" />
+      <File FileName="GuitarShop/Views/Product/List.cshtml" Line="41" Column="56" />
+      <File FileName="GuitarShop/Areas/Admin/Controllers/ProductController.cs" Line="111" Column="1" />
+      <File FileName="GuitarShop/Areas/Admin/Views/Product/List.cshtml" Line="61" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch08Ex1GuitarShop" expanded="True">
+            <Node name="GuitarShop" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Views" expanded="True">
+                    <Node name="Product" expanded="True">
+                      <Node name="List.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GuitarShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
